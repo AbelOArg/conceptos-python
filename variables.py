@@ -51,6 +51,8 @@ print(resultado)                          #se puede usar operadores logicos conj
 resultado = conjunto1.issuperset(conjunto2) #tambien conjunto1 > conjunto2
 
 resultado = conjunto2.isdisjoint(conjunto1) #si al menos un valor coincide, devuelve false
+
+resultado = conjunto2.isdisjoint(conjunto1) #si no hay ningun valor en comun devuelve true osea verifica que son disjuntos
 print(resultado)
 
 lista = list()
