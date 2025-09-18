@@ -2,11 +2,20 @@
 Repositorio con notas y conceptos basicos de python
 
 # **Temas**
+- Archivos
+- Blucles
+- Condicionales
+- Excepciones
+- Expresiones regulares
+- Funciones
+- Metodos
+- Modulos
+- Operadores
 - Variables
 - Tipos de Datos
+- Trabajando con graficos
 - Datos Compuestos
-- Operadores
-- Condicionales
-- Blucles
-- Metodos
-
+- Hola mundo
+- Inputs
+- Tipos de Datos
+- Variables 
