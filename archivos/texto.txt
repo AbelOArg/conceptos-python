@@ -1,0 +1,5 @@
+Hola, este es un archivo de texto.
+Estamos escribiendo en un archivo usando Python.
+¡Es muy sencillo!
+Esta es la cuarta linea.
+Esta es la quinta linea.

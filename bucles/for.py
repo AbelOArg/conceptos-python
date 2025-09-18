@@ -60,9 +60,8 @@ print(cuadrados)        #imprime la lista [0, 1, 4, 9, 16]
 
 #todos los for anteriores tambien se pueden usar con tuplas y conjuntos
 
-'''
 #bucle while
 contador = 0
 while contador < 5:
     print(contador)       
-    contador += 1  '''
+    contador += 1 #incrementa el contador en 1
